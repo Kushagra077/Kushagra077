@@ -62,7 +62,3 @@ I'm a passionate **Machine Learning Engineer** with a strong background in **Com
 - **[Portfolio](https://sites.google.com/view/kushagrapandya)**
 - **[LinkedIn](https://www.linkedin.com/in/kushagra-pandya/)**
 - **[GitHub](https://github.com/Kushagra077)**
-
----
-
-This README highlights your skills, experience, and key projects, while keeping it professional and informative. Feel free to adjust any details or add more content based on future achievements!
